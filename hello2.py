@@ -27,4 +27,4 @@ friends =["saeket","true","2"]
 print(friends)
 
 s=['a', 'b', 'c'] + [1, 2, 3]
-print(x)
+print(s)
